@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinniyPuh
 - 👀 I’m interested in find job
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,  QA Automation software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
